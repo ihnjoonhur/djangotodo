@@ -1,4 +1,4 @@
-#!/Users/ij/Documents/todo_list/venv/bin/python3
+#!/Users/ij/Documents/todo_list/venv/bin/python3.11
 # -*- coding: utf-8 -*-
 import re
 import sys
